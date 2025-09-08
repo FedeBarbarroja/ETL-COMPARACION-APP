@@ -54,7 +54,7 @@ Además, se desarrolló una interfaz en Streamlit que facilita la carga de archi
 
 <h2>Capturas de pantalla📷 </h2>
 
-![Streamlit UI](./images/demo_streamlit.png)
+![Streamlit UI](./images/demo_streamlit.jpg)
 ![Excel Output](./images/comparacion.png)
 
 <hr>
