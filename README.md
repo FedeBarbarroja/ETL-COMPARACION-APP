@@ -9,6 +9,8 @@ El resultado es un Excel comparativo que permite detectar:
 
 - Diferencias en montos entre ambas fuentes.
 
+- Diferencias en condición de IVA
+
 Además, se desarrolló una interfaz en Streamlit que facilita la carga de archivos y la generación del resultado de forma intuitiva, sin necesidad de conocimientos técnicos.
 
 <hr>
