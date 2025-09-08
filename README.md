@@ -15,15 +15,15 @@ Además, se desarrolló una interfaz en Streamlit que facilita la carga de archi
 
 <h2>Tecnologías utilizadas⚙️</h2>
 
-- Python 
+-   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-- Pandas
+- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-- OpenPyXL
+- <img src="https://img.shields.io/badge/OpenPyXL-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-- Streamlit (interfaz web)
+- <img src="https://img.shields.io/badge/Streamlit-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
-- Excel / CSV
+- <img src="https://img.shields.io/badge/EXCEL/CSV-4CAF50?style=for-the-badge&logo=data%20analysis&logoColor=white">
 
 <hr>
 
@@ -52,6 +52,8 @@ Además, se desarrolló una interfaz en Streamlit que facilita la carga de archi
 
 <h2>Capturas de pantalla📷 </h2>
 
+![Streamlit UI](./images/demo_streamlit.png)
+![Excel Output](./images/comparacion.png)
 
 <hr>
 
